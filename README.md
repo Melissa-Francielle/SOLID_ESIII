@@ -7,7 +7,7 @@
 # TRABALHO SOLID 
 
 Especificação do trabalho: 
-Considere o código disponível em Emprestimo.rar, que representa um código inicial sobre o empréstimo de livros em uma biblioteca, que tem as seguintes classes:
+Considere o código disponível em Emprestimo.rar ([Emprestimo versão sem o SOLID](https://github.com/Melissa-Francielle/SOLID_ESIII/tree/main/Emprestimo/src)), que representa um código inicial sobre o empréstimo de livros em uma biblioteca, que tem as seguintes classes:
 
 1. Classe Main - resposável pela entrada de dados e início da execução do programa.
 2. Classe Controle - Responsável por gerenciar os alunos.
