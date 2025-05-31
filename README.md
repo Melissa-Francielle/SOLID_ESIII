@@ -46,6 +46,7 @@ A partir disso, faça:
 * Classe Título: A classe título está 100% cumprindo com seus papéis, sem ferir nenhum conceito do SOLID.
 
 ## Explicação dos códigos principais
+TODOS OS CÓDIGOS JÁ ARRUMADOS VOCÊ PODE ACESSAR AQUI ([CÓDIGOS SOLID](https://github.com/Melissa-Francielle/SOLID_ESIII/tree/main/Codigos/src)).
 A partir das análises feita dos principios de SOLID que foram feridos pelos códigos encontrados no RAR fornecido pelo professor, foi então realizado abordagens para garantir que os principios não fossem feridos. É possível encontrar os códigos arrumados no seguinte diretório: 
 * Classe Aluno:
   ([Aluno Código](https://github.com/Melissa-Francielle/SOLID_ESIII/blob/main/Codigos/src/AlunoSolid.java)). O código da classe Aluno, ele gerencia somente o que é relacionado ao Aluno, neste caso a matricula.
