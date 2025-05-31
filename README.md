@@ -34,3 +34,13 @@ A partir disso, faça:
 
 ## Códigos solução
 A partir das análises feita dos principios de SOLID que foram feridos pelos códigos encontrados no RAR fornecido pelo professor, foi então realizado abordagens para garantir que os principios não fossem feridos. É possível encontrar os códigos arrumados no seguinte diretório: 
+
+## Classes e os principios feridos
+*  Classe Aluno: Single Responsibility Principle e Open/Closed
+*  Classe Controle: Single Responsibility Principle, Open/Closed e Dependency Inversion
+* Classe Débito: Open/Closed. O código de débito fere levemente outros princípios, como o SRP e o DIP, porém não prejudica de certa forma o funcionamento ou a escrita do código de alguma forma.
+* Classe Empréstimo: Single Responsibility e Open/Closed. A classe em potencial pode estar ferindo Dependency Inversion, porém parcialmente isso porque instância diretamente Item, cria um certo acoplamento.
+* Classe Item: Acreditasse que a classe Item não fere nenhum princípio do SOLID.
+* Classe Livro: Open/Closed
+* Classe Main: A classe main cumpre bem o papel de ponto de entrada do programa de certa forma.
+* Classe Título: A classe título está 100% cumprindo com seus papéis, sem ferir nenhum conceito do SOLID.
