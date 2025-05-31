@@ -31,3 +31,6 @@ A partir disso, faça:
 * Analise os códigos das classes e identifique quais princípios SOLID estão sendo violados. Apresente um relatório com as classess, trechos de códigos e justificativa de porque o princípio está sendo violado.
 
 * Refatore cada violação encontrada. Faça um relatório apresentando porque a solução resolve a violação do princípio em questão.
+
+## Códigos solução
+A partir das análises feita dos principios de SOLID que foram feridos pelos códigos encontrados no RAR fornecido pelo professor, foi então realizado abordagens para garantir que os principios não fossem feridos. É possível encontrar os códigos arrumados no seguinte diretório: 
